@@ -1,0 +1,9 @@
+pregunta: 
+¿cuales no se prueban
+en el programa de partida?
+
+Respuesta:
+
+No se prueban las intrucciones addi, andi y jump(incondicional).
+
+Se situan despues del salto beq no realizado en programa.s
